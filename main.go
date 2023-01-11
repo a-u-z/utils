@@ -11,5 +11,5 @@ func main() {
 	// }
 	// log.Printf("here is :%+v", stringSliceToLadderMap(s))
 
-	sliceDetail()
+	getEnv()
 }
